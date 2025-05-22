@@ -39,3 +39,6 @@ Dashboard ini menampilkan analisis penjualan berdasarkan data dari database Orac
 3. Buka `dashboard/sales_dashboard.pbix` di Power BI
 4. Ganti data source jika perlu
 
+## Contact
+
+Feel free to reach out at [fitriyanidaulay40@gmail.com].
