@@ -1,6 +1,6 @@
 # Dashboard Project
 
-Proyek dashboard ini menggunakan data yang diambil dengan SQL Developer, dianalisis dan divisualisasikan dengan Power BI, serta disimpan/dibagikan menggunakan SharePoint.
+This dashboard project uses data extracted with SQL Developer, analyzed and visualized using Power BI, and stored/shared via SharePoint.
 
 ## Struktur Folder
 - `query/` : SQL query untuk mengambil data
